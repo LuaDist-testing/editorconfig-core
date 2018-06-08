@@ -1,18 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
-local _version = "0.1.1"
+local _version = "0.2.0"
 
 package = "editorconfig-core"
-version = "0.1.1-1"
+version = "0.2.0-1"
 -- LuaDist source
 source = {
-  tag = "0.1.1-1",
+  tag = "0.2.0-1",
   url = "git://github.com/LuaDist-testing/editorconfig-core.git"
 }
 -- Original source
 -- source = {
---     url = "git://github.com/editorconfig/editorconfig-core-lua.git",
---     tag = "v0.1.1",
+--     url = "git://github.com/editorconfig/editorconfig-core-lua.git"
 -- }
 description = {
     summary = "EditorConfig support for the Lua language",
